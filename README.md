@@ -25,3 +25,15 @@ Training Models: I trained the data using three classification models and select
 Saving the Model: Finally, I saved the best model using JOBLIB for testing purposes.
 
 Note: As a fresh graduate and a curious learner, I experimented with various techniques in undersampling and feature selection. The steps above reflect the finalized approach I used to train the model.
+
+Metrics for Test Data:
+
+Accuracy: 0.9257820344308735
+Recall: 0.9203978879535909
+F1 Score: 0.9180690192423975
+Precision: 0.915933680899041
+
+
+Thank You
+
+Rafadh Rafeek
